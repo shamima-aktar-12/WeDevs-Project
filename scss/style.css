@@ -1,0 +1,241 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/*-----------------Navbar section-------------------*/
+.logo {
+  height: 150px;
+  width: 150px;
+}
+
+.nav-link:hover {
+  color: #0068F3;
+}
+
+.cart-color {
+  color: #606B7B;
+}
+
+.btn-color {
+  color: #0055A9;
+}
+
+/*-----------------Header section-------------------*/
+h1 {
+  color: #000;
+}
+
+.header {
+  font-size: 50px;
+}
+
+.empower {
+  color: #A84BFF;
+}
+
+.header-title {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.title {
+  font-size: 15px;
+  margin-top: 50px;
+}
+
+span.sub-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000;
+}
+
+.image {
+  width: 350px;
+}
+
+.image-1 {
+  height: 400px;
+  margin-bottom: 50px;
+}
+
+/*-----------------Our solution section-------------------*/
+#our-solution {
+  background-color: #F6F7F9;
+}
+
+#our-solution .para {
+  font-weight: 400px;
+  font-size: 20px;
+  color: #606B7B;
+}
+
+#our-solution .card {
+  padding: 50px;
+}
+
+#our-solution .card-style {
+  margin-top: -50px;
+}
+
+#our-solution .card-img-top {
+  width: 150px;
+  margin-top: 30px;
+  margin-left: 25px;
+}
+
+#our-solution .card:hover {
+  background-color: #0068F3;
+  color: #fff;
+}
+
+#our-solution .btn-all {
+  padding: 15px;
+  font-size: 20px;
+  width: 20%;
+  margin-left: 40%;
+  margin-bottom: 20px;
+}
+
+/*-----------------Blog section-------------------*/
+#header-blog {
+  background-color: #E0ECF8;
+}
+
+#header-blog .blog {
+  font-size: 40px;
+  font-weight: 700px;
+}
+
+#header-blog input {
+  border: none;
+  padding: 15px;
+  margin-right: 10px;
+  width: 30%;
+}
+
+#header-blog .btn {
+  padding: 15px;
+  margin-right: 10px;
+  width: 20%;
+}
+
+#header-blog .title-1 {
+  font-size: 20px;
+}
+
+#header-blog .card {
+  padding: 20px;
+  width: 20rem;
+}
+
+/*-----------------About section-------------------*/
+#about-header {
+  background-color: #E0ECF8;
+}
+
+#about-header .about-body {
+  background-color: #0068F3;
+  width: 15%;
+  color: #fff;
+  margin-top: 30px;
+  margin-left: 30%;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+#about-header .about-body1 {
+  background-color: #fff;
+  width: 15%;
+  color: #606B7B;
+  margin-top: 30px;
+  margin-left: 10px;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+#about-header .fas {
+  font-size: 30px;
+}
+
+#about-header .far {
+  font-size: 30px;
+}
+
+#about-header .about-body1:hover {
+  background-color: #0068F3;
+  color: #fff;
+}
+
+#about-section .para {
+  color: #606B7B;
+  font-weight: 100px;
+  font-size: 20px;
+}
+
+#about-our-section .para {
+  color: #606B7B;
+  font-weight: 100px;
+  font-size: 20px;
+}
+
+/*-----------------Docs section-------------------*/
+#docs-section form {
+  margin-left: 30%;
+  margin-top: 30px;
+}
+
+#docs-section input {
+  width: 40%;
+}
+
+#plugins-section {
+  background-color: #E0ECF8;
+}
+
+#plugins-section .plugins {
+  background: #fff;
+  width: 90%;
+  height: 300px;
+  margin-top: 30px;
+  padding: 40px;
+}
+
+#plugins-section .card {
+  width: 50%;
+  text-align: center;
+}
+
+#plugins-section .image {
+  width: 50px;
+  height: 50px;
+}
+
+/*-----------------Contact section-------------------*/
+#contact-section {
+  background-color: #F5F7FA;
+}
+
+#contact-section .contact {
+  background-color: #fff;
+}
+
+#contact-section .btn {
+  padding: 15px;
+  width: 30%;
+  border-radius: 5px;
+}
+
+/*-----------------Footer section-------------------*/
+#footer {
+  background-color: #E0ECF8;
+}
+
+#footer .fab {
+  font-size: 25px;
+  border-radius: 50px;
+  padding: 10px;
+  border: 2px solid #606B7B;
+  margin-right: 5px;
+}
+/*# sourceMappingURL=style.css.map */
