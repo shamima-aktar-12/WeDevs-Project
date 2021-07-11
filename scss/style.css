@@ -22,39 +22,39 @@ body {
 }
 
 /*-----------------Header section-------------------*/
-h1 {
+#header-hero h1 {
   color: #000;
 }
 
-.header {
+#header-hero .header {
   font-size: 50px;
 }
 
-.empower {
+#header-hero .empower {
   color: #A84BFF;
 }
 
-.header-title {
+#header-hero .header-title {
   font-size: 20px;
   line-height: 30px;
 }
 
-.title {
+#header-hero .title {
   font-size: 15px;
   margin-top: 50px;
 }
 
-span.sub-title {
+#header-hero span.sub-title {
   font-size: 20px;
   font-weight: bold;
   color: #000;
 }
 
-.image {
+#header-hero .image {
   width: 350px;
 }
 
-.image-1 {
+#header-hero .image-1 {
   height: 400px;
   margin-bottom: 50px;
 }
