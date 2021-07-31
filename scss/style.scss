@@ -91,6 +91,13 @@ span.sub-title{
     }
    
 }
+@media (max-width:600px) {
+    #our-solution{
+        .btn-all{
+            width: 40%;
+        }
+    }
+}
 /*-----------------Blog section-------------------*/
 #header-blog{
     background-color: $footer-color;
@@ -119,6 +126,13 @@ span.sub-title{
     width: 20rem;
 }
 
+}
+@media (max-width:600px) {
+    #header-blog{
+        .btn{
+            width: 40%;
+        }
+    }
 }
 /*-----------------About section-------------------*/
 #about-header{
@@ -166,6 +180,17 @@ span.sub-title{
         font-size: 20px;
     }
 }
+@media (max-width:600px) {
+    #about-header{
+    .about-body{
+        width: 20%;
+     }
+     .about-body1{
+        width: 20%;
+     }
+    }
+
+}
 /*-----------------Docs section-------------------*/
 #docs-section{
     form{
@@ -195,6 +220,16 @@ span.sub-title{
     height: 50px;
 }
 
+
+}
+@media (max-width:600px) {
+    #plugins-section{
+        .card{
+            width: 30%;
+           
+        }
+
+    }
 
 }
 /*-----------------Contact section-------------------*/
